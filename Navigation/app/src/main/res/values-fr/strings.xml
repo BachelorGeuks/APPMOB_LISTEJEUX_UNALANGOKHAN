@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Navigation</string>
+    <string name="odyssey">Assassin\'s Creed Odyssey</string>
+    <string name="reddead2">Red Dead Redemption 2</string>
+    <string name="thewitcher">The Witcher 3</string>
+    <string name="residentevil2">Resident Evil 2</string>
+    <string name="diablo3">Diablo III</string>
+    <string name="deathstranding">Death Stranding</string>
+    <string name="thelastofus">The Last of Us</string>
+    <string name="borderlands">Borderlands</string>
+
+    <string-array name="game">
+        <item>@string/odyssey</item>
+        <item>@string/reddead2</item>
+        <item>@string/thewitcher</item>
+        <item>@string/residentevil2</item>
+        <item>@string/diablo3</item>
+        <item>@string/deathstranding</item>
+        <item>@string/thelastofus</item>
+        <item>@string/borderlands</item>
+    </string-array>
+
+    <string-array name="image">
+        <item>odyssey</item>
+        <item>reddead2</item>
+        <item>thewitcher</item>
+        <item>residentevil2</item>
+        <item>diablo3</item>
+        <item>deathstranding</item>
+        <item>thelastofus</item>
+        <item>borderlands</item>
+    </string-array>
+
+    <string-array name="editeur">
+        <item>Ubisoft</item>
+        <item>Rockstar Games</item>
+        <item>CD Projekt RED</item>
+        <item>Capcom</item>
+        <item>Blizzard Entertainment</item>
+        <item>Kojima Productions</item>
+        <item>Naughty Dog</item>
+        <item>Gearbox Software</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Assassin\'s Creed Odyssey est un jeu vidéo d\'action-aventure et de rôle, développé par Ubisoft Québec et édité par Ubisoft sur PC, PlayStation 4 et Xbox One. Il appartient à la série Assassin\'s Creed.</item>
+        <item>Red Dead Redemption 2, typographié Red Dead Redemption II est un jeu vidéo d\'action-aventure et de western multiplateforme, développé par Rockstar Studios et édité par Rockstar Games, sorti le 26 octobre 2018 sur PlayStation 4 et Xbox One.</item>
+        <item>The Witcher 3: Wild Hunt est un jeu vidéo de type action-RPG développé par le studio polonais CD Projekt RED. Sorti le 19 mai 2015 sur PC, PlayStation 4 et Xbox One, il fait suite narrativement à The Witcher, et The Witcher 2: Assassins of Kings.</item>
+        <item>Resident Evil 2, sorti au Japon sous le nom Biohazard 2, est un jeu vidéo d\'action-aventure de type survival horror développé et édité par Capcom en 1998 sur PlayStation. Il est ensuite porté sur PC, Nintendo 64, Dreamcast, GameCube, puis vendu sur la plateforme de téléchargement PlayStation Network. </item>
+        <item>Diablo III est un jeu vidéo d\'action et de rôle de type hack and slash développé par Blizzard Entertainment. Il constitue le troisième opus de la série, succédant à Diablo et à Diablo II. Publié par Activision Blizzard, le jeu a bénéficié d\'une sortie mondiale le 15 mai 2012.</item>
+        <item>Death Stranding est un jeu vidéo développé par Kojima Productions et édité par Sony Interactive Entertainment. Actuellement en cours de développement, le jeu sortira sur PlayStation 4. Le titre du jeu fait référence à une chose venue d\'ailleurs qui, d\'après les mots d\'Hideo Kojima, s\'est échouée dans notre monde.</item>
+        <item>The Last of Us est un jeu vidéo d\'action-aventure en vue à la troisième personne de type survival horror développé par Naughty Dog et édité par Sony Computer Entertainment sur PlayStation 3, sorti le 14 juin 2013.</item>
+        <item>Borderlands est une série de jeux vidéo à la première personne développée par Gearbox Software et éditée par 2K Games. Le premier opus est sorti en octobre 2009. La suite, Borderlands 2, est sortie en septembre 2012.</item>
+    </string-array>
+</resources>
